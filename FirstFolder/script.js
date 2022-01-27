@@ -1,3 +1,4 @@
 const element = document.getElementById("main-text")
 const elements = document.getElementsByClassName("paragraph")
-console.log(elements)
+const elementsTag = document.getElementsByTagName("h1")
+console.log(elementsTag)
