@@ -15,6 +15,8 @@ const elementt = document.getElementById("main-text")
 //elementt.innerHTML = "Changed Text! <sup>Tag</sup>"
 
 elementt.style.backgroundColor = '#ffee00'
+elementt.style.color = "#555555"
+element.style.margin = "50px"
 
 console.log(elementqueryall)
 console.log(element.attributes)
