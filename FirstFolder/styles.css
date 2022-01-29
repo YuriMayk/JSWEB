@@ -7,3 +7,8 @@
 h1 {
     font-size: 100px;
 }
+
+input {
+    color:seagreen;
+    font-weight: 900;
+}
